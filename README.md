@@ -10,7 +10,7 @@
 <!-- TERMINAL TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Initializing+Ravi+Parmar+AI+Studio...;%3E+Loading+modules%3A+MidJourney+%E2%9C%85+RunwayML+%E2%9C%85+ElevenLabs+%E2%9C%85;%3E+Status%3A+Building+visuals+that+sell...+%F0%9F%9A%80)](https://raviaivisuals.ravicomputer.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%3E+Initializing+Ravi+Parmar+AI+Studio...;%3E+Loading%3A+MidJourney+%E2%9C%85+RunwayML+%E2%9C%85+ElevenLabs+%E2%9C%85;%3E+Loading%3A+Google+Flow+AI+%E2%9C%85+n8n+%E2%9C%85+Claude+%E2%9C%85;%3E+Status%3A+Building+visuals+that+sell...+%F0%9F%9A%80)](https://raviaivisuals.ravicomputer.com)
 
 </div>
 
@@ -58,7 +58,7 @@ Mindset   : I don't just generate — I solve
 ```mermaid
 flowchart LR
     A([📋 Client Brief]) --> B([✍️ AI Script\nClaude · Gemini])
-    B --> C([🎙️ Voice Generation\nElevenLabs])
+    B --> C([🎙️ Voice Generation\nElevenLabs · Google Flow AI])
     C --> D([🎬 Video Generation\nRunwayML · MidJourney])
     D --> E([🎵 Music & Sound\nSuno AI])
     E --> F([✂️ Post Production\nPremiere Pro · After Effects])
@@ -181,8 +181,6 @@ flowchart LR
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaviParmar1710&theme=tokyo-night&hide_border=true&area=true)](https://github.com/RaviParmar1710)
 
 </div>
-
-![Snake](https://raw.githubusercontent.com/RaviParmar1710/RaviParmar1710/output/github-contribution-grid-snake.svg)
 
 ---
 
