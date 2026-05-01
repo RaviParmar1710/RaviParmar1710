@@ -58,8 +58,8 @@ Mindset   : I don't just generate — I solve
 ```mermaid
 flowchart LR
     A([📋 Client Brief]) --> B([✍️ AI Script\nClaude · Gemini])
-    B --> C([🎙️ Voice Generation\nElevenLabs · Google Flow AI])
-    C --> D([🎬 Video Generation\nRunwayML · MidJourney])
+    B --> C([🎙️ Voice Generation\nElevenLabs])
+    C --> D([🎬 Video Generation\nRunwayML · MidJourney · Google Flow AI])
     D --> E([🎵 Music & Sound\nSuno AI])
     E --> F([✂️ Post Production\nPremiere Pro · After Effects])
     F --> G([🚀 Delivered Ad])
