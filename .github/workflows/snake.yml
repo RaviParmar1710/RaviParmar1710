@@ -3,21 +3,17 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Updated to v3 (latest stable)
       - uses: Platane/snk@v3
         with:
           github_user_name: RaviParmar1710
           outputs: dist/github-contribution-grid-snake.svg
-          
-      # Updated from v3 to v4 to fix the Node.js warning
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
